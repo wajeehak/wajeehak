@@ -52,6 +52,8 @@
 |---|---|
 | 🤖 AI-Powered Study Assistant (FYP) | Python · Flask · LangChain · React · RAG |
 | 📦 Inventory Management System | Angular · .NET Web API · SQL Server · JWT |
+| 🔐 Authentication API | Python · Flask · JWT · REST API |
+| 🧶 WIORA E-Commerce Store | React · Firebase · Firestore |
 
 ---
 
